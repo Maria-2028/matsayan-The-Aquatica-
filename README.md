@@ -89,9 +89,9 @@ https://youtu.be/t9cqs3nv-Fs?si=Z_9ZGY7LC-ZPA9Bq
 
 Team*   
  
-MARIA ROSE GEOGI
-JESS ANNET
-JANICE LYDIA PRADYUTHA 
+MARIA ROSE GEOGI ,
+JESS ANNET ,
+JANICE LYDIA PRADYUTHA ,
 MARCBEN JAMES SAMUEL
 ---  
 
@@ -101,4 +101,4 @@ By automating marine monitoring, we can:
 🔹 *Protect endangered species* by tracking their habitats  
 🔹 *Provide real-time data* to researchers & policymakers  
 
-*Let’s keep our oceans clean—one smart buoy at a time!* 🌊🤖♻
+*Let’s keep our oceans clean—one smart buoy at a time!* 
